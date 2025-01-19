@@ -1,6 +1,8 @@
 # tokipona-keyboard
 Toki Pona unicode keyboard layout
 
+<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc7%20Toki%20Pona%20layout.jpg" style="width: 80%;"></div>
+
 **Disclaimer:** This is not an application. This is just a keyboard layout for HeliBoard – an open source keyboard application which supports custom layouts. This can be good or bad for you. On the positive side, you can use it simply alongside other keyboard layouts.
 
 
@@ -50,30 +52,33 @@ Then, download the [layout file](https://github.com/alinajafi/tokipona-keyboard/
 
 3. At the bottom of the list, enable ```No language (Alphabet)```
   
-4. Disable the default ```QWERTY``` and tap on ```+``` to add a layout:
-<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc1%20No%20Language.jpg" style="width: 50%;"></div>
+4. Disable the default ```QWERTY``` and tap on ```+``` to add a layout (pic. left)
 
-5. Tap on ```Add Custom Layout```:
-<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc2%20Add%20layout.jpg" style="width: 50%;"></div>
+5. Tap on ```Add Custom Layout``` (pic. right)
+<div align="center">
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc1%20No%20Language.jpg" style="width: 45%;">        
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc2%20Add%20layout.jpg" style="width: 45%;">
+</div>  
 
-6. Select ```Load File``` and select the downloaded layout file:
-<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc3%20Load%20file.jpg" style="width: 50%;"></div>
+6. Select ```Load File``` and select the downloaded layout file (pic. left)
 
-7. Set a name for the layout. It will be shown on the space key, so you may want to set it as Toki Pona:
-<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc4%20Layout%20name.jpg" style="width: 50%;"></div>
+7. Set a name for the layout.  
+It will be shown on the space key, so you may want to set it as Toki Pona (pic. right)
+
+<div align="center">
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc3%20Load%20file.jpg" style="width: 45%;">        
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc4%20Layout%20name.jpg" style="width: 45%;">
+</div>  
 
 8. Additionally, on the page from step (4) you had better to change ```popup key order``` and ```hint source``` options.
 
-   For popup keys, disable all sections ecxept ```Layout```.
-   
+   For popup keys, disable all sections ecxept ```Layout```.     
    For hint source, disable all sections or optionally leave ```Layout``` enabled – this will hint additional press-and-hold characters.
 
 <div align="center">
-  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc5%20popup%20key%20options.jpg" style="width: 40%;">          
-  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc6%20hint%20source%20options.jpg" style="width: 40%;">
-</div>
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc5%20popup%20key%20options.jpg" style="width: 45%;">       
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc6%20hint%20source%20options.jpg" style="width: 45%;">
+</div>  
 
-
-Your unicode layout is ready. Enjoy!
-
-<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc7%20Toki%20Pona%20layout.jpg" style="width: 50%;"></div>
+</br>
+Your layout is ready. Enjoy!
