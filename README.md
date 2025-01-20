@@ -1,7 +1,7 @@
 # tokipona-keyboard
 Toki Pona unicode keyboard layout
 
-<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc7%20Toki%20Pona%20layout.jpg" style="width: 80%;"></div>
+<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc0%20layout.jpg" style="width: 80%;"></div>
 
 **Disclaimer:** This is not an application. This is just a keyboard layout for HeliBoard – an open source keyboard application which supports custom layouts. This can be good or bad for you. On the positive side, you can use it simply alongside other keyboard layouts.
 
