@@ -11,7 +11,7 @@ The process has two general stages:
 1) Installing the unicode font, 
 2) Adding the keybord layout.
 
-<h3>If you can see this character: 󱥢 it means you have already enabled the font and you can skip to stage 2.</h3>
+**If you can see this character: 󱥢 it means you have already enabled the font and you can skip to stage 2.**
 
 <h1>Stage 1. Installing the unicode font</h1>
 
@@ -82,3 +82,14 @@ It will be shown on the space key, so you may want to set it as Toki Pona (pic. 
 
 </br>
 Your layout is ready. Enjoy!
+
+<h1>How does it work?</h1>
+
+For now, other glyphs are accessible with press and hold. You can enable layout hints (step 8).
+
+They are grouped almost alphabetical, i.e. words starting with the same one or two sounds are grouped together.  
+Only ```nanpa``` and ```kule``` words are grouped according to their meanings.  
+
+Here’s a color coded layout:
+
+![color coded layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/sc8%20color%20coded.png)
