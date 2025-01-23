@@ -44,7 +44,7 @@ After enabling <code>ADB shell</code>, or using Terminal on the device, type the
 
 At first, you need to install [HeliBoard](https://f-droid.org/en/packages/helium314.keyboard/) from F-Droid. It is an open source alternative to GBoard and you can use it for other languages too.
 
-Then, download the [layout file](https://github.com/alinajafi/tokipona-keyboard/blob/main/Toki%20Pona.json) and add it to HeliBord:
+Then, download the [simple layout file](https://github.com/alinajafi/tokipona-keyboard/blob/main/Toki%20Pona.json) or/and the [shift-sensitive one](https://github.com/alinajafi/tokipona-keyboard/blob/main/Toki%20Pona%20-%20shift.json) and add it/them to HeliBord:
 
 1. Go to the app ```settings``` by holding comma (,)
 
@@ -92,4 +92,4 @@ Only ```nanpa``` and ```kule``` words are grouped according to their meanings.
 
 Here’s a color coded layout:
 
-![color coded layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/sc8%20color%20coded.png)
+![color coded layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/sc9%20color%20coded%202.png)
