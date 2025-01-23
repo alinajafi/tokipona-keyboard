@@ -1,0 +1,51 @@
+[
+	[
+		{ "label": "󱤂", "popup": { "relevant": [ { "label": "󱤄" } , { "label": "󱤃" } , { "label": "󱤅" } , { "label": "󱤆" } ] } },
+		{ "label": "󱤽", "popup": { "relevant": [ { "label": "󱥳" } , { "label": "󱥮" } , { "label": "󱤼" } , { "label": "󱤭" } , { "label": "󱤄" } ] } },
+		{ "label": "󱤰", "popup": { "relevant": [ { "label": "󱤱" } , { "label": "󱤲" } , { "label": "󱦂" } , { "label": "󱦢" } ] } },
+		{ "label": "󱤑", "popup": { "relevant": [ { "label": "󱤐" } , { "label": "󱦐" } , { "label": "󱤓" } , { "label": "󱦑" } , { "label": "󱥿" } ] } },
+		{ "label": "󱥖", "popup": { "relevant": [ { "label": "󱥙" } , { "label": "󱥚" } , { "label": "󱥗" } , { "label": "(°)|󱦕" } , { "label": "󱥘" } ] } },
+		{ "label": "󱥱", "popup": { "relevant": [ { "label": "󱥰" } , { "label": "󱦜" } , { "label": "󱥯" } , { "label": "󱦝" }  ] } },
+		{ "label": "󱤖", "popup": { "relevant": [ { "label": "󱤔" } , { "label": "󱤕" } , { "label": "󱤙" } , { "label": "󱤗" } , { "label": "󱤘" } ] } },
+		{ "label": "󱥩", "popup": { "relevant": [ { "label": "󱥧" } , { "label": "󱥨" } , { "label": "「" } , { "label": "」" } ] } },
+		{ "label": "󱥉", "popup": { "relevant": [ { "label": "󱥊" } , { "label": "󱥈" } , { "label": "󱥌" } , { "label": "󱥋" } ] } },
+		{ "$": "shift_state_selector",
+		  "shifted": { "label": "󱤤", "popup": { "relevant": [ { "label": "󱤢" } , { "label": "󱤦" } , { "label": "󱥼" } , { "label": "󱦅" } ] } },
+		  "default": { "label": "󱤡", "popup": { "relevant": [ { "label": "󱤢" } , { "label": "󱤤" } , { "label": "󱤦" } , { "label": "󱥼" } , { "label": "󱦅" } ] } } },
+		{ "label": "󱥷", "popup": { "relevant": [ { "label": "󱥵" } , { "label": "󱥴" } , { "label": "󱥶" } , { "label": "󱥳" } ] } }
+	],
+	[
+		{ "label": "󱤀", "popup": { "relevant": [ { "label": "󱤇" } , { "label": "󱤁" } , { "label": "󱤈" } ] } },
+		{ "label": "󱤾", "popup": { "relevant": [ { "label": "󱤿" } , { "label": "󱥀" } , { "label": "󱥸" } ] } },
+		{ "label": "󱤴", "popup": { "relevant": [ { "label": "󱤵" } , { "label": "󱤳" } , { "label": "󱦇" } , { "label": "󱥾" } ] } },
+		{ "label": "󱥄", "popup": { "relevant": [ { "label": "󱥆" } , { "label": "󱥅" } , { "label": "󱥇" } , { "label": "󱥺" } ] } },
+		{ "label": "󱥞", "popup": { "relevant": [ { "label": "󱥝" } , { "label": "󱥟" } , { "label": "󱥠" } , { "label": "󱥛" } ] } },
+		{ "label": "󱤍", "popup": { "relevant": [ { "label": "󱤌" } , { "label": "󱤏" } , { "label": "󱤎" } , { "label": "(•)|󱦖" } ] } },
+		{ "label": "󱤛", "popup": { "relevant": [ { "label": "󱤚" } , { "label": "󱦥" } , { "label": "󱥹" } , { "label": "󱦀" } , { "label": "󱥻" } ] } },
+		{ "label": "󱥬", "popup": { "relevant": [ { "label": "󱥪" } , { "label": "󱥫" } , { "label": "󱥮" } , { "label": "󱥭" } , { "label": "󱥾" } ] } },
+		{ "$": "shift_state_selector",
+		  "shifted": { "label": "󱥎", "popup": { "relevant": [ { "label": "󱥐" } , { "label": "󱥑" } ] } },
+		  "default": { "label": "󱥍", "popup": { "relevant": [ { "label": "󱥎" } , { "label": "󱥑" } , { "label": "󱥐" } , { "label": "󱦓" } ] } }
+		},
+		{ "$": "shift_state_selector",
+		  "shifted": { "label": "󱤪", "popup": { "relevant": [ { "label": "󱤨" } , { "label": "󱤩" } , { "label": "󱦤" } ] } },
+		  "default": { "label": "󱤧", "popup": { "relevant": [ { "label": "󱤨" } , { "label": "󱤪" } , { "label": "󱤩" } , { "label": "󱦤" } ] } }
+		},
+		{ "$": "shift_state_selector",
+		  "shifted": { "label": "󱤋", "popup": { "relevant": [ { "label": "󱦃" } ] } },
+		  "default": { "label": "󱤉", "popup": { "relevant": [ { "label": "󱤊" } , { "label": "󱤋" } , { "label": "󱦃" } ] } }
+		}
+	],
+	[
+		{ "label": "󱥁", "popup": { "relevant": [ { "label": "󱥂" } , { "label": "󱥃" } , { "label": "󱦆" } ] } },
+		{ "label": "󱤶", "popup": { "relevant": [ { "label": "󱤷" } , { "label": "󱤸" } , { "label": "󱥽" } ] } },
+		{ "label": "󱤺", "popup": { "relevant": [ { "label": "󱤻" } , { "label": "󱤹" } , { "label": "󱤼" } ] } },
+		{ "label": "󱥡", "popup": { "relevant": [ { "label": "󱥜" } , { "label": "󱥢" } , { "label": "󱦁" } ] } },
+		{ "label": "󱥣", "popup": { "relevant": [ { "label": "󱥦" } , { "label": "󱥤" } , { "label": "󱦦" } , { "label": "󱥥" } ] } },
+		{ "label": "󱤜", "popup": { "relevant": [ { "label": "󱤝" } , { "label": "󱤟" } , { "label": "󱦈" } , { "label": "󱤠" } ] } },
+		{ "label": "󱤞", "popup": { "relevant": [ { "label": "󱤒" } , { "label": "󱤫" } , { "label": "󱥏" } , { "label": "󱤣" } , { "label": "󱥲" } ] } },
+		{ "label": "󱥔", "popup": { "relevant": [ { "label": "󱥒" } , { "label": "󱥓" } , { "label": "󱥕" } , { "label": "󱦣" } ] } },
+		{ "label": "󱤬", "popup": { "relevant": [ { "label": "󱤥" } , { "label": "󱤮" } , { "label": "󱤭" } , { "label": "󱤯" } ] } }		
+	]
+]
+
