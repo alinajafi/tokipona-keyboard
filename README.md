@@ -1,7 +1,7 @@
 # tokipona-keyboard
 Toki Pona unicode keyboard layout
 
-<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc0%20layout.jpg" style="width: 80%;"></div>  
+<div align="center"><img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/layout.jpg" style="width: 80%;"></div>  
 
 </br>
 
@@ -20,6 +20,8 @@ The process has two general stages:
 The best font that I can guarantee to work with the keyboard layout is <code>nasin-nanpa</code> by jan Itan:
 
 1. Download the UCSUR version of the font: https://github.com/etbcor/nasin-nanpa/releases
+
+   Optionally, you can download alternative fonts combining Sitelen Pona fonts with Latin and Persian [here](https://github.com/alinajafi/tokipona-keyboard/tree/main/fonts).
 
 3. Use ```zfont``` to install the font on your device – if supported. You can follow instructions [here](https://www.reddit.com/r/tokipona/comments/10bwbur/guide_on_viewing_and_rendering_sitelen_pona_on/).
 
@@ -46,7 +48,7 @@ After enabling <code>ADB shell</code>, or using Terminal on the device, type the
 
 At first, you need to install [HeliBoard](https://f-droid.org/en/packages/helium314.keyboard/) from F-Droid. It is an open source alternative to GBoard and you can use it for other languages too.
 
-Then, download the [simple layout file](https://github.com/alinajafi/tokipona-keyboard/blob/main/Toki%20Pona.json) or/and the [shift-sensitive one](https://github.com/alinajafi/tokipona-keyboard/blob/main/Toki%20Pona%20-%20shift.json) and add it/them to HeliBordl like this:
+Then, download the [simple layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/layouts/Toki%20Pona.json) or/and the [shift-sensitive one](https://github.com/alinajafi/tokipona-keyboard/blob/main/layouts/TOK.json) and add it/them to HeliBordl like this:
 
 1. Go to the app ```settings``` by holding comma (,)
 
@@ -58,8 +60,8 @@ Then, download the [simple layout file](https://github.com/alinajafi/tokipona-ke
 
 5. Tap on ```Add Custom Layout``` (pic. right)
 <div align="center">
-  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc1%20No%20Language.jpg" style="width: 45%;">        
-  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc2%20Add%20layout.jpg" style="width: 45%;">
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/1%20No%20Language.jpg" style="width: 45%;">        
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/2%20Add%20layout.jpg" style="width: 45%;">
 </div>  
 
 6. Select ```Load File``` and select the downloaded layout file (pic. left)
@@ -68,8 +70,8 @@ Then, download the [simple layout file](https://github.com/alinajafi/tokipona-ke
 It will be shown on the space key, so you may want to set it as Toki Pona (pic. right)
 
 <div align="center">
-  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc3%20Load%20file.jpg" style="width: 45%;">        
-  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc4%20Layout%20name.jpg" style="width: 45%;">
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/3%20Load%20file.jpg" style="width: 45%;">        
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/4%20Layout%20name.jpg" style="width: 45%;">
 </div>  
 
 8. Additionally, on the page from step (4) you had better to change ```popup key order``` and ```hint source``` options.
@@ -78,8 +80,8 @@ It will be shown on the space key, so you may want to set it as Toki Pona (pic. 
    For hint source, disable all sections or optionally leave ```Layout``` enabled – this will hint additional press-and-hold characters.
 
 <div align="center">
-  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc5%20popup%20key%20options.jpg" style="width: 45%;">       
-  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/sc6%20hint%20source%20options.jpg" style="width: 45%;">
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/5%20popup%20key%20options.jpg" style="width: 45%;">       
+  <img src="https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/6%20hint%20source%20options.jpg" style="width: 45%;">
 </div>  
 
 </br>
@@ -94,4 +96,4 @@ Only ```nanpa``` and ```kule``` words are grouped according to their meanings.
 
 Here’s a color coded layout:
 
-![color coded layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/sc9%20color%20coded%202.png)
+![color coded layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/color%20coded.png)
