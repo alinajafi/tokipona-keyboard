@@ -28,7 +28,7 @@ The best font that I can guarantee to work with the keyboard layout is <code>nas
 
 <h3>If you have a MIUI Xiaomi device</h3>
 
-Some Toki Pona font packages are already submitted by me and will be published soon hopefully. (Not yet on Jan 19th, 2025)
+There are some Toki Pona compatible font packages in ```Themes```. Just search for _Toki Pona_ or the font name, such as _nasin nanpa_. You'll find them.
 
 <h3>If you have root access</h3>
 
