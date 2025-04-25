@@ -98,6 +98,50 @@ Here’s a color coded layout:
 
 ![color coded layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/color%20coded.png)
 
+<table>
+<tbody>
+    <tr>
+        <td>󱤂<br />󱤄󱤃󱤅󱤆</td>
+        <td>󱤽<br />󱥳󱥮󱤼󱤭󱤄</td>
+        <td>󱤰<br />󱦂󱤱󱤲󱦢</td>
+        <td>󱤑<br />󱥿󱤐󱤓<br /></td>
+        <td>󱥖<br />󱥚󱥙󱥗󱥘</td>
+        <td>󱥱<br />󱥰󱥯<br /></td>
+        <td>󱤖<br />󱤘󱤙󱤔󱤕󱤗</td>
+        <td>󱥩<br />󱥧󱥨<br /></td>
+        <td>󱥉<br />󱥋󱥌󱥊󱥈</td>
+        <td>󱤡<br />󱦅󱥼󱤦󱤤󱤢</td>
+        <td>󱥷<br />󱥳󱥶󱥴󱥵</td>
+    </tr>
+   <tr>
+       <td>󱤀<br />󱤇󱤁󱤈</td>
+        <td>󱤾<br />󱤿󱥀󱥸</td>
+        <td>󱤴<br />󱦇󱤵󱤳󱥾</td>
+        <td>󱥄<br />󱥺󱥆󱥅󱥇</td>
+        <td>󱥞<br />󱥜󱥠󱥝󱥟󱥛</td>
+        <td>󱤍<br />󱤏󱤌󱤎</td>
+        <td>󱤛<br />󱥻󱤚󱥹󱦀</td>
+        <td>󱥬<br />󱥾󱥮󱥪󱥫󱥭</td>
+        <td>󱥍<br />󱥐󱥎󱥑</td>
+        <td>󱤧<br />󱦤󱤩󱤪󱤨</td>
+        <td>󱤉<br />󱦃󱤊󱤋</td>
+    </tr>
+    <tr>
+        <td><br /></td>
+        <td>󱥁<br />󱥂󱥃󱦆</td>
+        <td>󱤶<br />󱥽󱤷󱤸</td>
+        <td>󱤺<br />󱤼󱤻󱤹</td>
+        <td>󱥡<br />󱥢󱦁</td>
+        <td>󱥣<br />󱦦󱥦󱥤󱥥</td>
+        <td>󱤜<br />󱦈󱤝󱤟󱤠</td>
+        <td>󱤞<br />󱥲󱥏󱤒󱤫󱤣</td>
+        <td>󱥔<br />󱥕󱥒󱥓</td>
+        <td>󱤬<br />󱤯󱤭󱤮󱤥</td>
+        <td><br /></td>
+    </tr>
+</tbody>
+</table>
+
 <h1>Special characters</h1>
 
 <table>
