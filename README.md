@@ -13,7 +13,7 @@ The process has two general stages:
 1) Installing the unicode font, 
 2) Adding the keybord layout.
 
-**If you can see this character: 󱥢 it means you have already enabled the font and you can skip to stage 2.**
+If you can see this character: 󱥢 it means you have already enabled the font and you can skip to stage 2.
 
 <h1>Stage 1. Installing the unicode font</h1>
 
@@ -48,7 +48,7 @@ After enabling <code>ADB shell</code>, or using Terminal on the device, type the
 
 At first, you need to install [HeliBoard](https://f-droid.org/en/packages/helium314.keyboard/) from F-Droid. It is an open source alternative to GBoard and you can use it for other languages too.
 
-Then, download the [simple layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/layouts/Toki%20Pona.json) or/and the [shift-sensitive one](https://github.com/alinajafi/tokipona-keyboard/blob/main/layouts/TOK.json) and add it/them to HeliBordl like this:
+Then, download the [layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/layouts/Toki%20Pona.json) and add it to HeliBordl like this:
 
 1. Go to the app ```settings``` by holding comma (,)
 
