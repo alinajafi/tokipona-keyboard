@@ -2,14 +2,14 @@
 	[
 		{ "label": "󱤂", "popup": { "relevant": [ { "label": "󱤄" } , { "label": "󱤃" } , { "label": "󱤅" } , { "label": "󱤆" } ] } },
 		{ "label": "󱤽", "popup": { "relevant": [ { "label": "󱥳" } , { "label": "󱥮" } , { "label": "󱤼" } , { "label": "󱤭" } , { "label": "󱤄" } ] } },
-		{ "label": "󱤰", "popup": { "relevant": [ { "label": "󱤱" } , { "label": "󱤲" } , { "label": "󱦢" } ] } },
+		{ "label": "󱤰", "popup": { "relevant": [ { "label": "󱤱" } , { "label": "󱤲" } , { "label": "󱦂" } , { "label": "󱦢" } ] } },
 		{ "$": "shift_state_selector",
 		  "shifted": { "label": "󱤑", "popup": { "relevant": [ { "label": "󱤐" } , { "label": "󱤓" } , { "label": "󱥿" } ] } },
 		"default": { "label": "󱤑", "popup": { "relevant": [ { "label": "󱤐" } , { "label": "󱤓" } , { "label": "󱥿" } , { "label": "󱦑" } , { "label": "󱦐" } ] } } },
 		{ "label": "󱥖", "popup": { "relevant": [ { "label": "󱥙" } , { "label": "󱥗" } , { "label": "󱥚" } , { "label": "󱥘" } ] } },
 		{ "$": "shift_state_selector",
 		  "shifted": { "label": "󱥱", "popup": { "relevant": [ { "label": "󱥰" } , { "label": "󱥯" } ] } },
-		"default": { "label": "󱥱", "popup": { "relevant": [ { "label": "󱥰" } , { "label": "󱥯" } , { "label": " 󱦒|󱦒" } , { "label": "x|‎" } , { "label": " 󱦔|󱦔" } ] } } },
+		"default": { "label": "󱥱", "popup": { "relevant": [ { "label": "󱥰" } , { "label": "󱥯" } , { "label": "󱦜" } , { "label": "󱦝" } ] } } },
 		{ "label": "󱤖", "popup": { "relevant": [ { "label": "󱤔" } , { "label": "󱤕" } , { "label": "󱤙" } , { "label": "󱤗" } , { "label": "󱤘" } ] } },
 		{ "label": "󱥩", "popup": { "relevant": [ { "label": "󱥧" } , { "label": "󱥨" } , { "label": "「" } , { "label": "」" } ] } },
 		{ "label": "󱥉", "popup": { "relevant": [ { "label": "󱥊" } , { "label": "󱥈" } , { "label": "󱥌" } , { "label": "󱥋" } ] } },
@@ -36,8 +36,8 @@
 		  "default": { "label": "󱤧", "popup": { "relevant": [ { "label": "󱤨" } , { "label": "󱤪" } , { "label": "󱤩" } , { "label": "󱦤" } ] } }
 		},
 		{ "$": "shift_state_selector",
-		  "shifted": { "label": "󱤋" },
-		  "default": { "label": "󱤉", "popup": { "relevant": [ { "label": "󱤋" } , { "label": "󱤊" } , { "label": "[•]|󱦖" } , { "label": "[°]|󱦕" } ] } }
+		  "shifted": { "label": "󱤋", "popup": { "relevant": [ { "label": "󱦃" } , { "label": "⇥|　" } ] } },
+		  "default": { "label": "󱤉", "popup": { "relevant": [ { "label": "󱤋" } , { "label": "󱤊" } , { "label": "󱦃" } , { "label": "󱤌󱦖󱤏|󱦖" } , { "label": "󱤌󱦕󱥚|󱦕" } ] } }
 		}
 	],
 	[
@@ -46,7 +46,7 @@
 		{ "label": "󱤺", "popup": { "relevant": [ { "label": "󱤻" } , { "label": "󱤹" } , { "label": "󱤼" } ] } },
 		{ "$": "shift_state_selector",
 		  "shifted": { "label": "󱥡", "popup": { "relevant": [ { "label": "󱥢" } , { "label": "󱦁" } ] } },
-		"default": { "label": "󱥡", "popup": { "relevant": [ { "label": "󱥢" } , { "label": "󱦁" } , { "label": "󱦜" } , { "label": "󱦝" } ] } } },
+		"default": { "label": "󱥡", "popup": { "relevant": [ { "label": "󱥢" } , { "label": "󱦁" } , { "label": "　󱦒|󱦒" } , { "label": "x|󱦘" } , { "label": "　󱦔|󱦔" } ] } } },
 		{ "label": "󱥣", "popup": { "relevant": [ { "label": "󱥦" } , { "label": "󱥤" } , { "label": "󱦦" } , { "label": "󱥥" } ] } },
 		{ "label": "󱤜", "popup": { "relevant": [ { "label": "󱤝" } , { "label": "󱤟" } , { "label": "󱦈" } , { "label": "󱤠" } ] } },
 		{ "label": "󱤞", "popup": { "relevant": [ { "label": "󱤒" } , { "label": "󱤫" } , { "label": "󱥏" } , { "label": "󱤣" } , { "label": "󱥲" } ] } },
