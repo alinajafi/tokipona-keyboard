@@ -97,3 +97,110 @@ Only ```nanpa``` and ```kule``` words are grouped according to their meanings.
 Here’s a color coded layout:
 
 ![color coded layout](https://github.com/alinajafi/tokipona-keyboard/blob/main/screenshots/color%20coded.png)
+
+<h1>Special characters</h1>
+
+<table>
+<thead>
+    <tr>
+        <th>Character</th>
+        <th>Unicode</th>
+        <th>Position (Press & Hold)</th>
+        <th>Shown As</th>
+        <th>ShiftKey Status</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td><code>START OF CARTOUCHE</code></td>
+        <td>U+F1990</td>
+        <td>󱤑 jan</td>
+        <td>󱦐</td>
+        <td>− Disabled</td>
+    </tr>
+    <tr>
+        <td><code>END OF CARTOUCHE</code></td>
+        <td>U+F1991</td>
+        <td>󱤑 jan</td>
+        <td>󱦑</td>
+        <td>− Disabled</td>
+    </tr>
+    <tr>
+        <td><code>MIDDLE DOT</code></td>
+        <td>U+F199C</td>
+        <td>󱥰 uta</td>
+        <td>󱦜</td>
+        <td>− Disabled</td>
+    </tr>
+    <tr>
+        <td><code>MIDDLE COLON</code></td>
+        <td>U+F199D</td>
+        <td>󱥰 uta</td>
+        <td>󱦝</td>
+        <td>− Disabled</td>
+    </tr>
+    <tr>
+        <td><code>OPENING QUOTATION (te)</code></td>
+        <td>U+F199E</td>
+        <td>󱥩 tawa</td>
+        <td>󱦞</td>
+        <td>± Always</td>
+    </tr>
+    <tr>
+        <td><code>CLOSING QUOTATION (to)</code></td>
+        <td>U+F199F</td>
+        <td>󱥩 tawa</td>
+        <td>󱦟</td>
+        <td>± Always</td>
+    </tr>
+    <tr>
+        <td><code>COMBINING LONG GLYPH EXTENSION</code></td>
+        <td>U+F1999</td>
+        <td>󱥡 sona</td>
+        <td>　󱦙</td>
+        <td>− Disabled</td>
+    </tr>
+    <tr>
+        <td><code>COMBINING CARTOUCHE EXTENSION</code></td>
+        <td>U+F1992</td>
+        <td>󱥡 sona</td>
+        <td>　󱦒</td>
+        <td>− Disabled</td>
+    </tr>
+    <tr>
+        <td><code>END OF LONG GLYPH</code></td>
+        <td>U+F1998</td>
+        <td>󱥡 sona</td>
+        <td>x</td>
+        <td>− Disabled</td>
+    </tr>
+    <tr>
+        <td><code>SCALING JOINER</code></td>
+        <td>U+F1996</td>
+        <td>󱤉 e</td>
+        <td>[°]</td>
+        <td>− Disabled</td>
+    </tr>
+    <tr>
+        <td><code>STACHING JOINER</code></td>
+        <td>U+F1995</td>
+        <td>󱤉 e</td>
+        <td>[•]</td>
+        <td>− Disabled</td>
+    </tr>
+    <tr>
+        <td><code>IDEOGRAPHIC SPACE</code></td>
+        <td>U+3000</td>
+        <td>󱤋 esun</td>
+        <td>⇥</td>
+        <td>+ Enabled</td>
+    </tr>
+    <tr>
+        <td><code>LONG pi</code></td>
+        <td>U+F1993</td>
+        <td>󱥎 pilin</td>
+        <td>󱦓</td>
+        <td>− Disabled</td>
+    </tr>
+</tbody>
+</table>
