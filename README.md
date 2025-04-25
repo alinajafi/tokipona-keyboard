@@ -222,14 +222,14 @@ Here’s a color coded layout:
         <td><code>SCALING JOINER</code></td>
         <td>U+F1996</td>
         <td>󱤉 e</td>
-        <td>[°]</td>
+        <td>󱤌󱦕󱥚</td>
         <td>− Disabled</td>
     </tr>
     <tr>
         <td><code>STACHING JOINER</code></td>
         <td>U+F1995</td>
         <td>󱤉 e</td>
-        <td>[•]</td>
+        <td>󱤌󱦖󱤏</td>
         <td>− Disabled</td>
     </tr>
     <tr>
