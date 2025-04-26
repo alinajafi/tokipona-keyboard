@@ -13,7 +13,7 @@ The process has two general stages:
 1) Installing the unicode font, 
 2) Adding the keybord layout.
 
-If you can see this character: <span style="font-family:sans">󱥢</span> it means you have already enabled the font and you can skip to stage 2.
+If you can see this character: <span style="font-family:sans-serif">󱥢</span> it means you have already enabled the font and you can skip to stage 2.
 
 <h1>Stage 1. Installing the unicode font</h1>
 
